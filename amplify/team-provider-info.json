@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "awsreactapp69fc1e2b": {}
+      },
+      "api": {
+        "awsreactapp": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
